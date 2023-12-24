@@ -1,5 +1,4 @@
 * {
-    margin-bottom: 40px;
     box-sizing: border-box;
   }
   .card {
@@ -81,10 +80,10 @@
     background-repeat: no-repeat;
     object-fit: cover;
     border-radius: 20px;
-    background-size: 160px;
+    /* background-size: 160px;
     background-position-x: 20px;
     background-position-y: 110px;
-    background-image: url('https://scontent.xx.fbcdn.net/v/t1.15752-9/410571367_325128247065306_2636415029048744167_n.jpg?stp=dst-jpg_s206x206&_nc_cat=105&ccb=1-7&_nc_sid=510075&_nc_eui2=AeFKicjyWSZ30ZaXpjIvLtBBdvKAUmkOCR128oBSaQ4JHQE3TDBAtJ1ZY8jkhsdsKlC2ch32Elr-AfiqOLfIIHG3&_nc_ohc=ornelJA7ZuAAX_5GHB8&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&cb_e2o_trans=q&oh=03_AdQtvn7TaFsEGakwcmFpLgow_9foSVhU1AWFmQQA3hRrMw&oe=65AA6AAB');
+    background-image: url('https://scontent.xx.fbcdn.net/v/t1.15752-9/410571367_325128247065306_2636415029048744167_n.jpg?stp=dst-jpg_s206x206&_nc_cat=105&ccb=1-7&_nc_sid=510075&_nc_eui2=AeFKicjyWSZ30ZaXpjIvLtBBdvKAUmkOCR128oBSaQ4JHQE3TDBAtJ1ZY8jkhsdsKlC2ch32Elr-AfiqOLfIIHG3&_nc_ohc=ornelJA7ZuAAX_5GHB8&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&cb_e2o_trans=q&oh=03_AdQtvn7TaFsEGakwcmFpLgow_9foSVhU1AWFmQQA3hRrMw&oe=65AA6AAB'); */
   }
  
   .outside p {
